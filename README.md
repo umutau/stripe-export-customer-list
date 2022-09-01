@@ -16,3 +16,7 @@ PaymentSystems::StripeAdapter::Commands::ExportCustomers.execute
 ### REQUIREMENTS:
 - gem 'stripe'
 - gem 'stripe-ruby-mock'
+- add following code into credentials
+```
+STRIPE_API_KEY: sk_test_RsUIbMyxLQszELZQEXHTeFA9008YRV7Vhr
+```
