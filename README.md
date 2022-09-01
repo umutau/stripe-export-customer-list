@@ -13,4 +13,6 @@ run the following command:
 PaymentSystems::StripeAdapter::Commands::ExportCustomers.execute
 ```
 
-
+### REQUIREMENTS:
+- gem 'stripe'
+- gem 'stripe-ruby-mock'
